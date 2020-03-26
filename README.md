@@ -1,2 +1,2 @@
 # EquationsofStateData
-This repository holds the data for 152 simulations completed while T NREL - Computations reported in the following journals, PLEASE CITE!
+This repository holds the data for 91 simulations completed at the US DOE National Renewable Energy Labratory - Computations reported in the following journals, PLEASE CITE!
