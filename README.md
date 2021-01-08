@@ -1,7 +1,9 @@
 # How Equation of State Selection Impacts Accuracy Near the Critical Point: Forced Convection Supercritical CO2 Flow Over a Cylinder
-This repository holds the data and code for 99 simulation cases completed at the [US DOE National Renewable Energy Labratory Peregrine supercomputer](https://www.nrel.gov/computational-science/hpc-user-facility.html) and [University of Washington-Seattle Hyak supercomputer](https://uw.service-now.com/sp?id=sc_entry&sys_id=bbcd76e1db12bb8037ae9ec6db961948&sysparm_category=d103f865dba2bf40d6a77a8eaf9619b2). 
+> This repository holds the code for 99 simulation cases completed at the [US DOE National Renewable Energy Labratory Peregrine supercomputer](https://www.nrel.gov/computational-science/hpc-user-facility.html) and [University of Washington-Seattle Hyak supercomputer](https://uw.service-now.com/sp?id=sc_entry&sys_id=bbcd76e1db12bb8037ae9ec6db961948&sysparm_category=d103f865dba2bf40d6a77a8eaf9619b2). 
 
-The scripts for submitting jobs was also included to help others who are submitting simulation jobs to supercomputers. Note: All supercomputer job submission set ups are unique and you will have to check with your admins before submitting the exact script here, but the logic and outline should be similar and is a good example for people starting from scratch.
+- The scripts for submitting jobs was also included to help others who are submitting simulation jobs to supercomputers. Note: All supercomputer job submission set ups are unique and you will have to check with your admins before submitting the exact script here, but the logic and outline should be similar and is a good example for people starting from scratch.
+
+- The User Defined Functions are used for making sure the equation of state selection in simulation software is accurate, for this case specifically [Ansys Fluent](http://www.ansys.com/). More infomration on User Defined Functinos can be found in this Stanford ME 469B presentation by clicking [here](https://web.stanford.edu/class/me469b/handouts/programming.pdf)
 
 # Manuscript on this work is published! If this repo was helpful for you please cite so we (and our sponsors) know what we did was valuable to others!
 ## DOI: https://doi.org/10.1016/j.supflu.2020.105141
@@ -10,7 +12,7 @@ The scripts for submitting jobs was also included to help others who are submitt
 ### Text Citation: 
 Elizabeth Rasmussen, Shashank Yellapantula, Michael James Martin,
 How Equation of State Selection Impacts Accuracy Near the Critical Point: Forced Convection Supercritical CO2 Flow Over a Cylinder,
-The Journal of Supercritical Fluids, 2020, 105141, ISSN 0896-8446, https://doi.org/10.1016/j.supflu.2020.105141 (http://www.sciencedirect.com/science/article/pii/S0896844620303922)
+The Journal of Supercritical Fluids, 2020, 105141, ISSN 0896-8446, https://doi.org/10.1016/j.supflu.2020.105141 
 
 Keywords: Supercritical Phase; Carbon Dioxide; Equation of State; Numerical Analysis; Heat Transfer
 
