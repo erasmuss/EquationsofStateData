@@ -7,7 +7,7 @@
 
 - The User Defined Functions are included and were used for making sure the equation of state material properties for CO2 (viscosity, thermal conductivity, and specific heat) simulated using comercial software was accurate, for this case specifically [Ansys Fluent](http://www.ansys.com/). More infomration on User Defined Functions can be found in this Stanford ME 469B presentation by clicking [here](https://web.stanford.edu/class/me469b/handouts/programming.pdf)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferasmuss%2FEquationsofStateData&count_bg=%2379C83D&title_bg=%23555555&icon=prometheus.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferasmuss%2FEquationsofStateData&count_bg=%238F3DC8&title_bg=%23555555&icon=prometheus.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Manuscript on this work is published! If this repo was helpful to you please cite the publication so we (and our sponsors) know what we did was valuable and visable to others!
 ## DOI: https://doi.org/10.1016/j.supflu.2020.105141
 ## URL to paper: https://www.sciencedirect.com/science/article/pii/S0896844620303922 
