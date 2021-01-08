@@ -5,7 +5,7 @@
 
 - The User Defined Functions are included and were used for making sure the equation of state material properties for CO2 (viscosity, thermal conductivity, and specific heat) simulated using comercial software was accurate, for this case specifically [Ansys Fluent](http://www.ansys.com/). More infomration on User Defined Functions can be found in this Stanford ME 469B presentation by clicking [here](https://web.stanford.edu/class/me469b/handouts/programming.pdf)
 
-# Manuscript on this work is published! If this repo was helpful for you please cite so we (and our sponsors) know what we did was valuable to others!
+# Manuscript on this work is published! If this repo was helpful to you please cite the publication so we (and our sponsors) know what we did was valuable and visable to others!
 ## DOI: https://doi.org/10.1016/j.supflu.2020.105141
 ## URL to paper: https://www.sciencedirect.com/science/article/pii/S0896844620303922 
 
