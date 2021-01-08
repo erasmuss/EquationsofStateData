@@ -1,4 +1,4 @@
-# EquationsofStateData
+# How Equation of State Selection Impacts Accuracy Near the Critical Point: Forced Convection Supercritical CO2 Flow Over a Cylinder
 This repository holds the data and code for 99 simulation cases completed at the [US DOE National Renewable Energy Labratory Peregrine supercomputer](https://www.nrel.gov/computational-science/hpc-user-facility.html) and [University of Washington-Seattle Hyak supercomputer](https://uw.service-now.com/sp?id=sc_entry&sys_id=bbcd76e1db12bb8037ae9ec6db961948&sysparm_category=d103f865dba2bf40d6a77a8eaf9619b2). 
 
 The scripts for submitting jobs was also included to help others who are submitting simulation jobs to supercomputers. Note: All supercomputer job submission set ups are unique and you will have to check with your admins before submitting the exact script here, but the logic and outline should be similar and is a good example for people starting from scratch.
